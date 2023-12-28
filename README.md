@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Passionate Developer from Nepal</p>
+<p align="center">Web Developer from Nepal</p>
 
 ###
 
