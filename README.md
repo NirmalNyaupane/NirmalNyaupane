@@ -16,7 +16,13 @@
   <img src="https://cdn.simpleicons.org/sequelize/52B0E7" height="40" alt="sequelize logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
@@ -56,8 +62,8 @@
 
 <h2 align="left">Connect with me:</h2>
 
-###
 
+###
 <div align="left">
   <a href="https://www.linkedin.com/in/nirmal-neupane-66556220a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -70,4 +76,15 @@
   </a>
 </div>
 
+
+
 ###
+
+<h2 align="left">📊 GitHub Stats:</h2>
+
+
+###
+![](https://github-readme-stats.vercel.app/api?username=NirmalNyaupane&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NirmalNyaupane&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalNyaupane&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
