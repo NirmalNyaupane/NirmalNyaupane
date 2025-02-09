@@ -58,7 +58,7 @@
 ###
 
 <p align="left">- 🎗️ I’m currently working on <b>Modern Technologies such as Nest js, Node js, Typescript, React, Nextjs, Postgres etc<b>
-  <br> <br> - 🌱 I am Currently learning and exploring <b>System Design, Cloud, and microservice <b>
+  <br> <br> - 🌱 I am Currently learning and exploring <b>System Design, Cloud, and microservice </b>b>
   <br><br>- 👀 I’m interested in coding and building some awesome project <br><br>- 🌱 I am Final year Student of BIM (Bachelor in Information Management)<br><br>💬 Ask me about Web Development</p>
 
 ###
