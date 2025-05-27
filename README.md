@@ -14,10 +14,11 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" height="40" alt="nest js logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/sequelize/52B0E7" height="40" alt="sequelize logo"  />
-  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typeorm" height="40" alt="typeorm logo"  />
+  <img src="https://cdn.simpleicons.org/prisma" height="40" alt="prisma logo"  />
+  <img src="https://cdn.simpleicons.org/mongodb" height="40" alt="prisma logo"  />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
@@ -32,14 +33,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="40" alt="yarn logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker" height="40" alt="docker logo"  />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
