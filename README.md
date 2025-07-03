@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Web Developer from Nepal</p>
+<p align="center">I'm a passionate developer diving deep into modern web technologies and building exciting projects. 🚀</p>
 
 ###
 
@@ -51,11 +51,18 @@
 
 <h2 align="left">About me</h2>
 
-###
+### 💻 What I'm Working On
+- Crafting robust backend solutions with **NestJS**, **Node.js**, **TypeScript**, and **PostgreSQL**.
+- Building dynamic and scalable frontends using **React** and **Next.js**.
+- Always experimenting with new tools to create awesome, user-focused applications.
 
-<p align="left">- 🎗️ I’m currently working on <b>Modern Technologies such as Nest js, Node js, Typescript, React, Nextjs, Postgres etc<b>
-  <br> <br> - 🌱 I am Currently learning and exploring <b>System Design, Cloud, and microservice </b>b>
-  <br><br>- 👀 I’m interested in coding and building some awesome project <br><br>- 🌱 I am Final year Student of BIM (Bachelor in Information Management)<br><br>💬 Ask me about Web Development</p>
+### 🌱 Currently Learning
+- Exploring the world of **System Design** to architect efficient, scalable systems.
+- Diving into **Cloud technologies** and **Microservices** to build resilient, distributed applications.
+
+### 👀 Interests
+- Coding innovative solutions and bringing ideas to life through impactful projects.
+- Collaborating with the community to learn, share, and grow as a developer.
 
 ###
 
