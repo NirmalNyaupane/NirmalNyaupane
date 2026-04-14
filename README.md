@@ -90,5 +90,8 @@
 
 
 ###
-<img class="m-2 select-none pointer-events-none" draggable="false" id="streak" src="https://nirzak-streak-stats.vercel.app/?user=nirmalnyaupane&amp;theme=dark&amp;hide_border=false" alt="">
+![](https://github-readme-stats.shion.dev/api?username=nirmalnyaupane&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=nirmalnyaupane&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nirmalnyaupane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
